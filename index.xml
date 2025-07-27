@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aili Chen</title>
+    <link>https://ailichen.github.io/</link>
+      <atom:link href="https://ailichen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aili Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ailichen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
+      <title>Aili Chen</title>
+      <link>https://ailichen.github.io/</link>
+    </image>
+    
+    <item>
+      <title>MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention</title>
+      <link>https://ailichen.github.io/publication/minimax_m1/</link>
+      <pubDate>Tue, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailichen.github.io/publication/minimax_m1/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles</title>
+      <link>https://ailichen.github.io/publication/enigmata/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailichen.github.io/publication/enigmata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling</title>
+      <link>https://ailichen.github.io/publication/deeper/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailichen.github.io/publication/deeper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals</title>
+      <link>https://ailichen.github.io/publication/selfgoal/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://ailichen.github.io/publication/selfgoal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TravelAgent: An AI Assistant for Personalized Travel Planning</title>
+      <link>https://ailichen.github.io/publication/travelagent/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ailichen.github.io/publication/travelagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Persona to Personalization: A Survey on Role-Playing Language Agents</title>
+      <link>https://ailichen.github.io/publication/rplasurvey/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://ailichen.github.io/publication/rplasurvey/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

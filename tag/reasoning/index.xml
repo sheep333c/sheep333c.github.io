@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reasoning | Jiangjie Chen</title>
+    <link>https://jiangjiechen.github.io/tag/reasoning/</link>
+      <atom:link href="https://jiangjiechen.github.io/tag/reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reasoning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
+      <title>Reasoning</title>
+      <link>https://jiangjiechen.github.io/tag/reasoning/</link>
+    </image>
+    
+    <item>
+      <title>Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles</title>
+      <link>https://jiangjiechen.github.io/publication/enigmata/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/enigmata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning</title>
+      <link>https://jiangjiechen.github.io/publication/seed_thinking_v1.5/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/seed_thinking_v1.5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAPO: An Open-source LLM Reinforcement Learning System At Scale</title>
+      <link>https://jiangjiechen.github.io/publication/dapo/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/dapo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms</title>
+      <link>https://jiangjiechen.github.io/publication/evoagent/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/evoagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Past Meets Present: Creating Historical Analogy with Large Language Models</title>
+      <link>https://jiangjiechen.github.io/publication/historyanalogy/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/historyanalogy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DetectBench: Can Large Language Model Detect and Piece Together Implicit Evidence?</title>
+      <link>https://jiangjiechen.github.io/publication/detectbench/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/detectbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena</title>
+      <link>https://jiangjiechen.github.io/publication/aucarena/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/aucarena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction</title>
+      <link>https://jiangjiechen.github.io/publication/scar/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/scar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AnalogyKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base</title>
+      <link>https://jiangjiechen.github.io/publication/analogykb/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/analogykb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Say What You Mean! Large Language Models Speak Too Positively about Negative Commonsense Knowledge</title>
+      <link>https://jiangjiechen.github.io/publication/uncommongen/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/uncommongen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harnessing Knowledge and Reasoning for Human-Like Natural Language Generation: A Brief Review</title>
+      <link>https://jiangjiechen.github.io/publication/tcdereview/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/tcdereview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Explanation Generation via Correct Instantiations</title>
+      <link>https://jiangjiechen.github.io/publication/neon/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/neon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme I - Text Reasoning, Being Right for the Right Reasons 🤔</title>
+      <link>https://jiangjiechen.github.io/projects/reasoning/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/projects/reasoning/</guid>
+      <description>&lt;p&gt;For humans, intuitive inferences are made every now and then.
+However, it would require reasons for humans to convince others and justify themselves of their inferences or decisions.
+How can machines better convince humans of their predictions?
+The key may lie in making the right and faithful reasons for self-justification.&lt;/p&gt;
+&lt;p&gt;What is human-like reasoning? What is the holy grail of machine cognition?
+It is easy to be right due to various spurious correlations, but it would require some actual reasoning skills to be right for the right and faithful reasons.
+More importantly, symbolic reasoning is too fragile to handle everyday reasoning.
+Can machine reasoning happen over natural language like humans do?&lt;/p&gt;
+&lt;p&gt;Exemplar papers in this theme include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/neon&#34;&gt;NEON (AAAI 2023)&lt;/a&gt;: a two-phrase, unsupervised explanation generation framework for explaining why a statement is wrong;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/ekar/&#34;&gt;E-KAR (Findings of ACL 2022)&lt;/a&gt;: a benchmark for analogical reasoning with free-text rationales for both positive and negative candidate answers;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/loren/&#34;&gt;LOREN (AAAI 2022)&lt;/a&gt;: generating faithful and accurate rationales without supervision;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/educat/&#34;&gt;EDUCAT (AAAI 2022)&lt;/a&gt;: unsupervised counterfactual reasoning for imagining possible outcomes;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/probr/&#34;&gt;PRobr (Findings of ACL 2021)&lt;/a&gt;: reasoning over natural language statements via an induced graphical model.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>E-KAR: A Benchmark for Rationalizing Natural Language Analogical Reasoning</title>
+      <link>https://jiangjiechen.github.io/publication/ekar/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/ekar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOREN: Logic-Regularized Reasoning for Interpretable Fact Verification</title>
+      <link>https://jiangjiechen.github.io/publication/loren/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/loren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Editing for Counterfactual Stories</title>
+      <link>https://jiangjiechen.github.io/publication/educat/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/educat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Graph Reasoning for Natural Proof Generation</title>
+      <link>https://jiangjiechen.github.io/publication/probr/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/probr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

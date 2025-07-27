@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Large Language Models | Jiangjie Chen</title>
+    <link>https://jiangjiechen.github.io/tag/large-language-models/</link>
+      <atom:link href="https://jiangjiechen.github.io/tag/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Large Language Models</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
+      <title>Large Language Models</title>
+      <link>https://jiangjiechen.github.io/tag/large-language-models/</link>
+    </image>
+    
+    <item>
+      <title>Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles</title>
+      <link>https://jiangjiechen.github.io/publication/enigmata/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/enigmata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning</title>
+      <link>https://jiangjiechen.github.io/publication/seed_thinking_v1.5/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/seed_thinking_v1.5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAPO: An Open-source LLM Reinforcement Learning System At Scale</title>
+      <link>https://jiangjiechen.github.io/publication/dapo/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/dapo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention</title>
+      <link>https://jiangjiechen.github.io/publication/powerattention/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/powerattention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling</title>
+      <link>https://jiangjiechen.github.io/publication/deeper/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/deeper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoSER: Coordinating LLM-Based Persona Simulation of Established Roles</title>
+      <link>https://jiangjiechen.github.io/publication/coser/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/coser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction</title>
+      <link>https://jiangjiechen.github.io/publication/easytool/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/easytool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms</title>
+      <link>https://jiangjiechen.github.io/publication/evoagent/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/evoagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing the Barriers of Language Agents in Planning</title>
+      <link>https://jiangjiechen.github.io/publication/barrierinplanning/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/barrierinplanning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals</title>
+      <link>https://jiangjiechen.github.io/publication/selfgoal/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/selfgoal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEGMENT&#43;: Long Text Processing with Short-Context Language Models</title>
+      <link>https://jiangjiechen.github.io/publication/segmentplus/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/segmentplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Past Meets Present: Creating Historical Analogy with Large Language Models</title>
+      <link>https://jiangjiechen.github.io/publication/historyanalogy/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/historyanalogy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TravelAgent: An AI Assistant for Personalized Travel Planning</title>
+      <link>https://jiangjiechen.github.io/publication/travelagent/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/travelagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?</title>
+      <link>https://jiangjiechen.github.io/publication/irrelevant/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/irrelevant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DetectBench: Can Large Language Model Detect and Piece Together Implicit Evidence?</title>
+      <link>https://jiangjiechen.github.io/publication/detectbench/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/detectbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works</title>
+      <link>https://jiangjiechen.github.io/publication/cross/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Persona to Personalization: A Survey on Role-Playing Language Agents</title>
+      <link>https://jiangjiechen.github.io/publication/rplasurvey/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/rplasurvey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?</title>
+      <link>https://jiangjiechen.github.io/publication/lifechoice/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/lifechoice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SurveyAgent: A Conversational System for Personalized and Efficient Research Survey</title>
+      <link>https://jiangjiechen.github.io/publication/surveyagent/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/surveyagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent Group Chat: An Interactive Group Chat Simulacra For Better Eliciting Collective Emergent Behavior</title>
+      <link>https://jiangjiechen.github.io/publication/agentgroupchat/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/agentgroupchat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TimeArena: Shaping Efficient Multitasking Language Agents in a Time-Aware Simulation</title>
+      <link>https://jiangjiechen.github.io/publication/timearena/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/timearena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews</title>
+      <link>https://jiangjiechen.github.io/publication/incharacter/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/incharacter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GumbelSoft: Diversified Language Model Watermarking via the GumbelMax-trick</title>
+      <link>https://jiangjiechen.github.io/publication/gumbelsoft/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/gumbelsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TravelPlanner: A Benchmark for Real-World Planning with Language Agents</title>
+      <link>https://jiangjiechen.github.io/publication/travelplanner/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/travelplanner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena</title>
+      <link>https://jiangjiechen.github.io/publication/aucarena/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/aucarena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translate Meanings, Not Just Words: IdiomKB&#39;s Role in Optimizing Idiomatic Translation with Language Models</title>
+      <link>https://jiangjiechen.github.io/publication/idiomkb/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/idiomkb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Chameleon or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflicts</title>
+      <link>https://jiangjiechen.github.io/publication/sloth/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/sloth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction</title>
+      <link>https://jiangjiechen.github.io/publication/scar/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/scar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AnalogyKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base</title>
+      <link>https://jiangjiechen.github.io/publication/analogykb/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/analogykb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distilling Script Knowledge from Large Language Models for Constrained Language Planning</title>
+      <link>https://jiangjiechen.github.io/publication/coscript/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/coscript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Say What You Mean! Large Language Models Speak Too Positively about Negative Commonsense Knowledge</title>
+      <link>https://jiangjiechen.github.io/publication/uncommongen/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/uncommongen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
